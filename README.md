@@ -1,2 +1,2 @@
 # HactoberFest-key-liye
-C programs only :)
+C/C++ programs only :)
